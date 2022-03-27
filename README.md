@@ -7,8 +7,8 @@ Data science Portfolio
 - The dataset has more the 1400+ employees records across 35 different features
 - Compared 3 different models to understand which predictive model gives the best accuracy, for this dataset Logistic regression passed with the best performance.
 
-![Kernel Density Estimate](https://github.com/aeshna25/Aeshna_Portfolio/blob/main/images/hrkde.png)
-![Boxplot to compare Job Role and Income](https://github.com/aeshna25/Aeshna_Portfolio/blob/main/images/hrboxplot.png)
+![Kernel Density Estimate](/images/hrkde.png)
+![Boxplot to compare Job Role and Income](/images/hrboxplot.png)
 
 
 
@@ -22,6 +22,6 @@ Data science Portfolio
 - EDA helped in observing the trends and certain correlations between customer features.
 - Also tested **Auto encoder for dimentionality reductions** and compared the results to that of PCA
 
-![Elbow method to get the best no of clusters](https://github.com/aeshna25/Aeshna_Portfolio/blob/main/images/mrelbow.png)
-![PCA for KMEANS clusters](https://github.com/aeshna25/Aeshna_Portfolio/blob/main/images/mrpca.png)
+![Elbow method to get the best no of clusters](/images/mrelbow.png)
+![PCA for KMEANS clusters](/images/mrpca.png)
 
