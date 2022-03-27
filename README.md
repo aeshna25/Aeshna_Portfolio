@@ -6,7 +6,10 @@ Data science Portfolio
 - Aim is to help organization understand the reasons behind employees who are leaving the company
 - The dataset has more the 1400+ employees records across 35 different features
 - Compared 3 different models to understand which predictive model gives the best accuracy, for this dataset Logistic regression passed with the best performance.
-![](https://github.com/aeshna25/Aeshna_Portfolio/blob/main/images/hrcolumnsinfo.png)
+![](https://github.com/aeshna25/Aeshna_Portfolio/blob/main/images/hrcountplot.png)
+![](https://github.com/aeshna25/Aeshna_Portfolio/blob/main/images/hrkde.png)
+![](https://github.com/aeshna25/Aeshna_Portfolio/blob/main/images/hrboxplot.png)
+
 
 
 # [Project 2: Customer Segmentation using KMeans and PCA :Project overview]
@@ -19,4 +22,7 @@ Data science Portfolio
 - EDA helped in observing the trends and certain correlations between customer features.
 - Also tested Auto encoder for dimentionality reductions and compared the results to that of PCA
 
+![](https://github.com/aeshna25/Aeshna_Portfolio/blob/main/images/MRheatmap.png)
+![](https://github.com/aeshna25/Aeshna_Portfolio/blob/main/images/mrelbow.png)
+![](https://github.com/aeshna25/Aeshna_Portfolio/blob/main/images/mrpca.png)
 
