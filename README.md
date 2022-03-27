@@ -6,6 +6,7 @@ Data science Portfolio
 - Aim is to help organization understand the reasons behind employees who are leaving the company
 - The dataset has more the 1400+ employees records across 35 different features
 - Compared 3 different models to understand which predictive model gives the best accuracy, for this dataset Logistic regression passed with the best performance.
+![](https://github.com/aeshna25/Aeshna_Portfolio/blob/main/images/hrcolumnsinfo.png)
 
 
 # [Project 2: Customer Segmentation using KMeans and PCA :Project overview]
