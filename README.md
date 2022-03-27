@@ -17,5 +17,5 @@ Data science Portfolio
     4. Fourth customer cluster (low tenure): these are customers with low tenure (7 years), low balance 
 - EDA helped in observing the trends and certain correlations between customer features.
 - Also tested Auto encoder for dimentionality reductions and compared the results to that of PCA
--
+
 
