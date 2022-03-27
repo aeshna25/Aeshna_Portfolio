@@ -1,7 +1,7 @@
 # Aeshna_Portfolio
 Data science Portfolio
-
-# [Project 1: Employees Attrition Predictive Modeling :Project overview](https://github.com/aeshna25/Employees-Attrition-Predictive-Modeling-)
+# Project 1: HR USE CASE
+## [Employees Attrition Predictive Modeling :Project overview](https://github.com/aeshna25/Employees-Attrition-Predictive-Modeling-)
 - Created a predictive model using **ANN, Logistic Regression and Random forest**
 - Aim is to help organization understand the reasons behind employees who are leaving the company
 - The dataset has more the 1400+ employees records across 35 different features
@@ -11,8 +11,8 @@ Data science Portfolio
 ![Boxplot to compare Job Role and Income](/images/hrboxplot.png)
 
 
-
-# [Project 2: Customer Segmentation using KMeans and PCA :Project overview]
+# Project 2: Marketing USE CASE  
+## [Customer Segmentation using KMeans and PCA :Project overview]
 - Marketing is essential for brands to attract customers. One of the dwelling pain points of companies is to segment customers in a way so that marketers can lauch campagines targeting to particular segments
 - Using machine learning **clustering models like Kmeans and dimensionality reduction processes like PCA, with this project segmented bank customers into 4 types**.
     1. First Customers cluster (Transactors): Those are customers who pay least amount of intrerest charges and careful with their money, Cluster with lowest balance ($104) and cash advance ($303), Percentage of full payment = 23%
