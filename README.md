@@ -12,7 +12,7 @@ Data science Portfolio
 
 
 # Project 2: Marketing USE CASE  
-## [Customer Segmentation using KMeans and PCA :Project overview]
+## [Customer Segmentation using KMeans and PCA :Project overview](https://github.com/aeshna25/Customer-Segmentation-using-KMeans-and-PCA)
 - Marketing is essential for brands to attract customers. One of the dwelling pain points of companies is to segment customers in a way so that marketers can lauch campagines targeting to particular segments
 - Using machine learning **clustering models like Kmeans and dimensionality reduction processes like PCA, with this project segmented bank customers into 4 types**.
     1. First Customers cluster (Transactors): Those are customers who pay least amount of intrerest charges and careful with their money, Cluster with lowest balance ($104) and cash advance ($303), Percentage of full payment = 23%
