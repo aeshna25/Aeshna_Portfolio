@@ -1,5 +1,8 @@
-# Aeshna_Portfolio
-Data science Portfolio
+# Aeshna Gupta Portfolio
+Hi my name is Aeshna, data scientist with about 2 years of experience in building data-intensive applications aiming for better customer
+insights. I have extensive experience in Python, data visualization, pattern recognition as well as quantitative market
+research. I have strong communication skills and experience in explaining technical topics to a general audience. I am dedicated to continuously learning and enhancing my skills. 
+
 # Project 1: HR USE CASE
 ## [Employees Attrition Predictive Modeling :Project overview](https://github.com/aeshna25/Employees-Attrition-Predictive-Modeling-)
 - Created a predictive model using **ANN, Logistic Regression and Random forest**
