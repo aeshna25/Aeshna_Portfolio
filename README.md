@@ -3,7 +3,7 @@ Hi my name is Aeshna, data scientist with about 2 years of experience in buildin
 insights. I have extensive experience in Python, data visualization, pattern recognition as well as quantitative market
 research. I have strong communication skills and experience in explaining technical topics to a general audience. I am dedicated to continuously learning and enhancing my skills. 
 Below are some of the data science for Business project I made. 
-You can reach out to me via: [Email][aeshnaagg@gmail.com)
+You can reach out to me via: [Email](aeshnaagg@gmail.com)
 
 # Project 1: HR USE CASE
 ## [Employees Attrition Predictive Modeling :Project overview](https://github.com/aeshna25/Employees-Attrition-Predictive-Modeling-)
