@@ -3,7 +3,7 @@ Hi my name is Aeshna, data scientist with about 2 years of experience in buildin
 insights. I have extensive experience in Python, data visualization, pattern recognition as well as quantitative market
 research. I have strong communication skills and experience in explaining technical topics to a general audience. I am dedicated to continuously learning and enhancing my skills. 
 Below are some of the data science for Business project I made. 
-You can reach out to me via: [LinkedIn](www.linkedin.com/in/aeshna-gupta)
+You can reach out to me via: [LinkedIn](https://www.linkedin.com/in/aeshna-gupta-6b37b4165/)
 
 **Content**:
 1. Project 1: Human Resource Use case
