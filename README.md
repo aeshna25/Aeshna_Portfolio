@@ -46,5 +46,5 @@ You can reach out to me via: [LinkedIn](https://www.linkedin.com/in/aeshna-gupta
 
 The below graphs shows the 60 days ahead prediction for a particular store, and in addition to it the yearly, monthly and weekly trend of the store as well. 
 
-![FB prophet result](https://github.com/aeshna25/Future-Daily-Sales-/blob/main/Images/fbprophet.png)
-![Yearly trend](https://github.com/aeshna25/Future-Daily-Sales-/blob/main/Images/trendfb.png)
+![FB prophet result](/images/fbprophet.png)
+![Yearly trend](/images/trendfb.png)
