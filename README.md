@@ -73,7 +73,7 @@ The model was trained using
 <img align="center" width="460" height="460" src="/images/healthcare.png">
 
 
-# Project 4: Public Relations Use Case
+# Project 5: Public Relations Use Case
 ## [Predicting-Customer-satisfaction-using-customer-reviews](https://github.com/aeshna25/Predicting-Customer-satisfaction-using-customer-reviews)
 - Predicting whether customers are satisfied with the product based on their reviews and rating.
 - For this project the object is to understand customers through there reviews on Amazon's famous voice assistant product-- Alexa. 
@@ -84,5 +84,5 @@ The model was trained using
 - The newly prepared numerical dataset is than used for prediction the train test split is done is the ration 4:1, and is fed to **Naive Bayes classfier** which is great for multi-class problems and **Logistic regression**. Both the models were judged on the **performance matrix: Accuracy** and the results shows that on one hand where Naive bayes classfier gave a good accuracy of 94% , Logistic Regression stood victorious with close to perfect accuracy score.
 
 <img align="left" src="images/rating.png">
-<img align="right" src="images/naivebayesaccuracy.png">
+<img align="right" width="460" height="400" src="images/naivebayesaccuracy.png">
 <img align="center" src="images/wordcloud.png">
