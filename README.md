@@ -19,8 +19,8 @@ You can reach out to me via: [LinkedIn](https://www.linkedin.com/in/aeshna-gupta
 - The dataset has more the 1400+ employees records across 35 different features
 - Compared 3 different models to understand which predictive model gives the best accuracy, for this dataset Logistic regression passed with the best performance.
 
-<img align="left" width="460" height="300" src="/images/hrkde.png">
-<img align="center" width="460" height="300" src="/images/hrboxplot.png">
+<img align="left" width="460" height="300" src="images/hrkde.png">
+<img align="center" width="460" height="300" src="images/hrboxplot.png">
 
 
 # Project 2: Marketing Use Case  
@@ -34,8 +34,8 @@ You can reach out to me via: [LinkedIn](https://www.linkedin.com/in/aeshna-gupta
 - EDA helped in observing the trends and certain correlations between customer features.
 - Also tested **Auto encoder for dimentionality reductions** and compared the results to that of PCA
 
-<img align="left" width="460" height="300" src="/images/mrelbow.png">
-<img align="center" width="460" height="400" src="/images/mrpca.png">
+<img align="left" width="460" height="300" src="images/mrelbow.png">
+<img align="center" width="460" height="400" src="images/mrpca.png">
 
 
 
@@ -49,8 +49,8 @@ You can reach out to me via: [LinkedIn](https://www.linkedin.com/in/aeshna-gupta
 
 The below graphs shows the 60 days ahead prediction for a particular store, and in addition to it the yearly, monthly and weekly trend of the store as well. 
 
-<img align="left" width="460" height="300" src="/images/fbprophet.png">
-<img align="center" width="460" height="400" src="/images/trendfb.png">
+<img align="left" width="460" height="300" src="images/fbprophet.png">
+<img align="center" width="460" height="400" src="images/trendfb.png">
 
 
 # Project 4: Healthcare Use Case
@@ -70,7 +70,7 @@ The model was trained using
 - Generalization steps: Dropout layers
 - Checking overfiiting: Early stopping after 20 epochs
 
-<img align="center" width="460" height="460" src="/images/healthcare.png">
+<img align="center" width="460" height="460" src="images/healthcare.png">
 
 
 # Project 5: Public Relations Use Case
