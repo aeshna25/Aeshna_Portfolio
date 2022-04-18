@@ -10,6 +10,7 @@ You can reach out to me via: [LinkedIn](https://www.linkedin.com/in/aeshna-gupta
 2. Project 2: Marketing Use case
 3. Project 3: Sales Use case
 4. Project 4: Healthcare Use case
+5. Project 5: Public Relations Use case 
 
 # Project 1: Human Resource Use Case
 ## [Employees Attrition Predictive Modeling](https://github.com/aeshna25/Employees-Attrition-Predictive-Modeling-)
@@ -18,8 +19,8 @@ You can reach out to me via: [LinkedIn](https://www.linkedin.com/in/aeshna-gupta
 - The dataset has more the 1400+ employees records across 35 different features
 - Compared 3 different models to understand which predictive model gives the best accuracy, for this dataset Logistic regression passed with the best performance.
 
-![Kernel Density Estimate](/images/hrkde.png)
-![Boxplot to compare Job Role and Income](/images/hrboxplot.png)
+<img align="left" width="460" height="300" src="/images/hrkde.png">
+<img align="center" width="460" height="300" src="/images/hrboxplot.png">
 
 
 # Project 2: Marketing Use Case  
@@ -33,8 +34,9 @@ You can reach out to me via: [LinkedIn](https://www.linkedin.com/in/aeshna-gupta
 - EDA helped in observing the trends and certain correlations between customer features.
 - Also tested **Auto encoder for dimentionality reductions** and compared the results to that of PCA
 
-![Elbow method to get the best no of clusters](/images/mrelbow.png)
-![PCA for KMEANS clusters](/images/mrpca.png)
+<img align="left" width="460" height="300" src="/images/mrelbow.png">
+<img align="center" width="460" height="400" src="/images/mrpca.png">
+
 
 
 # Project 3: Sales Use Case
@@ -47,8 +49,9 @@ You can reach out to me via: [LinkedIn](https://www.linkedin.com/in/aeshna-gupta
 
 The below graphs shows the 60 days ahead prediction for a particular store, and in addition to it the yearly, monthly and weekly trend of the store as well. 
 
-![FB prophet result](/images/fbprophet.png)
-![Yearly trend](/images/trendfb.png)
+<img align="left" width="460" height="300" src="/images/fbprophet.png">
+<img align="center" width="460" height="400" src="/images/trendfb.png">
+
 
 # Project 4: Healthcare Use Case
 ## [Detecting and Classifying Chest Disease](https://github.com/aeshna25/Detecting-and-Classifying-Chest-Disease)
@@ -67,4 +70,19 @@ The model was trained using
 - Generalization steps: Dropout layers
 - Checking overfiiting: Early stopping after 20 epochs
 
-![Prediction Result](/images/healthcare.png)
+<img align="center" width="460" height="460" src="/images/healthcare.png">
+
+
+# Project 4: Public Relations Use Case
+## [Predicting-Customer-satisfaction-using-customer-reviews](https://github.com/aeshna25/Predicting-Customer-satisfaction-using-customer-reviews)
+- Predicting whether customers are satisfied with the product based on their reviews and rating.
+- For this project the object is to understand customers through there reviews on Amazon's famous voice assistant product-- Alexa. 
+- The dataset has more than 3000 reviews from actual customers having information like review, date, rating, alexa model and feedback.
+- The target feature is the feedback, which is a binary column where 1 means positive and 0 means negative. The project focuses on using **Natural language processing** capabilities to convert words into numbers and use them furture to create predictive models.
+- Python's **nltk library** is a powerful tool which has capabilities such as removing stopwords,punctuations, lemmatization etc. It also gives an option to customize the stopwords list according to the dataset.
+- Before feeding the word document to the model, it was converted into numerical format. The categorical column was converted using **Dummy variable** and the word document was **tokenized using count vectorizer technique.**
+- The newly prepared numerical dataset is than used for prediction the train test split is done is the ration 4:1, and is fed to **Naive Bayes classfier** which is great for multi-class problems and **Logistic regression**. Both the models were judged on the **performance matrix: Accuracy** and the results shows that on one hand where Naive bayes classfier gave a good accuracy of 94% , Logistic Regression stood victorious with close to perfect accuracy score.
+
+<img align="left" src="images/rating.png">
+<img align="right" src="images/naivebayesaccuracy.png">
+<img align="center" src="images/wordcloud.png">
