@@ -14,8 +14,8 @@ You can reach out to me via: [LinkedIn](https://www.linkedin.com/in/aeshna-gupta
 
 
 # Project 1: Human Resource Use Case<span id="Project1"></span>
-[Employees Attrition Predictive Modeling](https://github.com/aeshna25/Employees-Attrition-Predictive-Modeling-)
-----------------------------------------
+## [Employees Attrition Predictive Modeling](https://github.com/aeshna25/Employees-Attrition-Predictive-Modeling-)
+
 - Created a predictive model using **ANN, Logistic Regression and Random forest**
 - Aim is to help organization understand the reasons behind employees who are leaving the company
 - The dataset has more the 1400+ employees records across 35 different features
