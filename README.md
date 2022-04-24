@@ -6,14 +6,16 @@ Below are some of the data science for Business project I made.
 You can reach out to me via: [LinkedIn](https://www.linkedin.com/in/aeshna-gupta-6b37b4165/)
 
 **Content**:
-1. [Project 1: Human Resource Use case](# Project 1: Human Resource Use Case)
-2. [Project 2: Marketing Use case](# Project 2: Marketing Use Case)
-3. Project 3: Sales Use case
-4. Project 4: Healthcare Use case
-5. Project 5: Public Relations Use case 
+1. [Project 1: Human Resource Use case](#Project1)
+2. [Project 2: Marketing Use case](#Project2)
+3. [Project 3: Sales Use case](#Project3)
+4. [Project 4: Healthcare Use case](#Project4)
+5. [Project 5: Public Relations Use case](#Project5)
 
-# Project 1: Human Resource Use Case
-## [Employees Attrition Predictive Modeling](https://github.com/aeshna25/Employees-Attrition-Predictive-Modeling-)
+
+# Project 1: Human Resource Use Case<span id="Project1"></span>
+[Employees Attrition Predictive Modeling](https://github.com/aeshna25/Employees-Attrition-Predictive-Modeling-)
+----------------------------------------
 - Created a predictive model using **ANN, Logistic Regression and Random forest**
 - Aim is to help organization understand the reasons behind employees who are leaving the company
 - The dataset has more the 1400+ employees records across 35 different features
@@ -23,7 +25,8 @@ You can reach out to me via: [LinkedIn](https://www.linkedin.com/in/aeshna-gupta
 <img align="center" width="460" height="300" src="images/hrboxplot.png">
 
 
-# Project 2: Marketing Use Case  
+Project 2: Marketing Use Case<span id="Project2"></span>
+---------------------------------
 ## [Customer Segmentation using KMeans and PCA](https://github.com/aeshna25/Customer-Segmentation-using-KMeans-and-PCA)
 - Marketing is essential for brands to attract customers. One of the dwelling pain points of companies is to segment customers in a way so that marketers can lauch campagines targeting to particular segments
 - Using machine learning **clustering models like Kmeans and dimensionality reduction processes like PCA, with this project segmented bank customers into 4 types**.
@@ -39,7 +42,7 @@ You can reach out to me via: [LinkedIn](https://www.linkedin.com/in/aeshna-gupta
 
 
 
-# Project 3: Sales Use Case
+# Project 3: Sales Use Case<span id="Project3"></span>
 ## [Future Daily Sales Prediction of Stores](https://github.com/aeshna25/Future-Daily-Sales-)
 - Predictive model to forecast future sales using historical data, while taking into account seasonality changes, holidays, promotion for 1000+ stores.
 - For this project, the objective is to understand the dependency of store sales on multiple factors like competition, competion distance , type of holidays, customer footfall, day of the week, month,type of store.
@@ -53,7 +56,7 @@ The below graphs shows the 60 days ahead prediction for a particular store, and 
 <img align="center" width="460" height="400" src="images/trendfb.png">
 
 
-# Project 4: Healthcare Use Case
+# Project 4: Healthcare Use Case<span id="Project4"></span>
 ## [Detecting and Classifying Chest Disease](https://github.com/aeshna25/Detecting-and-Classifying-Chest-Disease)
 - Developed a model that can detect and classify 4 different chest disease from X-Ray images. 
 - The training dataset has 133 images for each type of Chest Disease.
@@ -73,7 +76,7 @@ The model was trained using
 <img align="center" width="460" height="460" src="images/healthcare.png">
 
 
-# Project 5: Public Relations Use Case
+# Project 5: Public Relations Use Case<span id="Project5"></span>
 ## [Predicting-Customer-satisfaction-using-customer-reviews](https://github.com/aeshna25/Predicting-Customer-satisfaction-using-customer-reviews)
 - Predicting whether customers are satisfied with the product based on their reviews and rating.
 - For this project the object is to understand customers through there reviews on Amazon's famous voice assistant product-- Alexa. 
