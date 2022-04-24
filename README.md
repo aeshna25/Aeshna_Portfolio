@@ -6,8 +6,8 @@ Below are some of the data science for Business project I made.
 You can reach out to me via: [LinkedIn](https://www.linkedin.com/in/aeshna-gupta-6b37b4165/)
 
 **Content**:
-1. Project 1: Human Resource Use case
-2. Project 2: Marketing Use case
+1. [Project 1: Human Resource Use case](# Project 1: Human Resource Use Case)
+2. [Project 2: Marketing Use case](# Project 2: Marketing Use Case)
 3. Project 3: Sales Use case
 4. Project 4: Healthcare Use case
 5. Project 5: Public Relations Use case 
