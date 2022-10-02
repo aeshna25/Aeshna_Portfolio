@@ -1,5 +1,5 @@
 
-Hi my name is Aeshna,I am a data scientist with about 2 years of experience in building data-intensive applications aiming for better customer
+Hi my name is Aeshna,I am a data scientist with 2+ years of experience in building data-intensive applications aiming for better customer
 insights. I have extensive experience in Python, data visualization, pattern recognition as well as quantitative market
 research. I have strong communication skills and experience in explaining technical topics to a general audience. I am dedicated to continuously learning and enhancing my skills. 
 Below are some of the data science for Business project I made. 
